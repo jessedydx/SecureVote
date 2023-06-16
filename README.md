@@ -1,5 +1,7 @@
 # SecureVote
 SecureVote is a voting application that utilizes blockchain technology to support secure and transparent voting processes. This project aims to enhance trust and transparency by preventing central authorities and data manipulation.
+
+
 Features:
 
 Registered users go through an identity verification process to gain voting privileges.
